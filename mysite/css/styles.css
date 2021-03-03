@@ -1,0 +1,25 @@
+.icon{
+    width: 10%;
+    height: 10%;
+    margin: 10px 10px 10px 10px;
+}
+.left_align{
+    margin-left: auto;
+    margin-right: 0;
+}
+.nav_item{
+    margin-right: 80px;
+    font-size: 200%;
+}
+.hello{
+    width: 75%;
+    height: 75%;
+    margin: 50px 50px 50px 50px;
+    border: none;
+}
+.all_buttoms{
+    width: 500px;
+    height: 300px;
+    color: rgb(255,255,255);
+    border: 0;
+}
